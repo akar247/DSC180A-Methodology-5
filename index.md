@@ -1,2 +1,3 @@
-Capstone Example Jekyll Website
-This is about as barebones as a Jekyll site can be. 
+<center> Aman Kar (akar@ucsd.edu) </center>
+
+### **Section:** B02
