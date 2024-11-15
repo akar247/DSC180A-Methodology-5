@@ -1,3 +1,3 @@
-<center> Aman Kar (akar@ucsd.edu) </center>
+# <center> Aman Kar (akar@ucsd.edu) </center>
 
 ### **Section:** B02
