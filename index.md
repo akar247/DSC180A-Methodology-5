@@ -1,3 +1,7 @@
+---
+title: DSC180A-Methodology-5
+---
+
 # <center> Aman Kar (akar@ucsd.edu) </center>
 
 <br>
