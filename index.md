@@ -13,7 +13,7 @@
 
 <br>
 
-**1. What is the most interesting topic covered in your domain this quarter?**
+**1. What is the most interesting topic covered in your domain this quarter?** <be>
       - I think the most interesting topic we covered in our domain this quarter was the various models (especially LLMs) we looked at to optimize our transaction memo categorization task. I also really liked learning more about the credit and banking industry and the overall development process for these types of data science applications. 
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
